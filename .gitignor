@@ -1,2 +1,4 @@
 ssh-keygen -t rsa -b 4096 -C \302\253photo.malysheva@gmail.com\
 ssh-keygen -t rsa -b 4096 -C \302\253photo.malysheva@gmail.com\".pub
+"ssh-keygen -t rsa -b 4096 -C \302\253photo.malysheva@gmail.com\""
+"ssh-keygen -t rsa -b 4096 -C \302\253photo.malysheva@gmail.com\".pub"
