@@ -1,0 +1,5 @@
+/Users/Lena/ЯП/obj/Debug/net6.0/ЯП.csproj.AssemblyReference.cache
+/Users/Lena/ЯП/obj/Debug/net6.0/ЯП.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lena/ЯП/obj/Debug/net6.0/ЯП.AssemblyInfoInputs.cache
+/Users/Lena/ЯП/obj/Debug/net6.0/ЯП.AssemblyInfo.cs
+/Users/Lena/ЯП/obj/Debug/net6.0/ЯП.csproj.CoreCompileInputs.cache

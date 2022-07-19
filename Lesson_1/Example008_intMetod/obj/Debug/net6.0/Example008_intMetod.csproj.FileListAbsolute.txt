@@ -1,0 +1,15 @@
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/bin/Debug/net6.0/Example008_intMetod
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/bin/Debug/net6.0/Example008_intMetod.deps.json
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/bin/Debug/net6.0/Example008_intMetod.runtimeconfig.json
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/bin/Debug/net6.0/Example008_intMetod.dll
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/bin/Debug/net6.0/Example008_intMetod.pdb
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.csproj.AssemblyReference.cache
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.AssemblyInfoInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.AssemblyInfo.cs
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.csproj.CoreCompileInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.dll
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/refint/Example008_intMetod.dll
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.pdb
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/Example008_intMetod.genruntimeconfig.cache
+/Users/Lena/ЯП/Lesson_1/Example008_intMetod/obj/Debug/net6.0/ref/Example008_intMetod.dll
